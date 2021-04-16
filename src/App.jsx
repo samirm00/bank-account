@@ -4,6 +4,7 @@ import AccountStatus from "./components/AccountStatus";
 import Auth from "./components/Auth";
 import Balance from "./components/Balance";
 import Banking from "./components/Banking";
+import ExtraFeatures from "./components/ExtraFeatures";
 import "./App.css";
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
       <Balance />
       <Banking />
       <AccountStatus />
+      <ExtraFeatures />
     </div>
   );
 };

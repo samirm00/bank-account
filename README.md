@@ -1,6 +1,6 @@
 # bank-account
 
-> React app fake bank account allows the user to deposit , withdraw , collect interest , delete account , change the account type and login log out
+> React app fake bank account allows the user to deposit , withdraw , collect interest , delete account , change the account type, login log out and active extra features
 
 ## Table of contents
 
