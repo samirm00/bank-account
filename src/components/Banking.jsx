@@ -1,41 +1,3 @@
-# bank-account
-
-> React app fake bank account allows the user to deposit , withdraw , collect interest , delete account , change the account type and login log out
-
-## Table of contents
-
-- [General info](#general-info)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Features](#features)
-- [Status](#status)
-- [Inspiration](#inspiration)
-- [Contact](#contact)
-
-## General info
-
-> A React app , the objective using Redux to mange the global state(store) and integrated with React
-
-## Screenshots
-
-![Example screenshot](./img/Screenshot.png)
-
-## Technologies
-
-- VS code
-- React 17.0.2
-- Redux 4.0.5
-- React-redux 7.2.3
-
-## Setup
-
-- `npm install `
-- `npm start`
-
-## Code Examples
-
-```js
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
 // action creators
@@ -114,29 +76,3 @@ const Banking = () => {
 };
 
 export default Banking;
-```
-
-## Features
-
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
-
-## Status
-
-Project is: _in progress_
-
-## Inspiration
-
-Redux by Thiyagarajan
-
-## Contact
-
-By [samirm00]

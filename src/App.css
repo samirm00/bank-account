@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(194, 197, 197);
+}
+
+.app {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
